@@ -3,6 +3,7 @@ ________________________________________________________________________________
 status: EM ANDAMENTO
 ___________________________________________________________________________________________________________________
 OBJETIVOS:
+
 Obter a temperatura atual para uma lista de cidades do seu estado e armazenar os resultados em uma tabela SQL.
 
 Analisar a temperatura máxima e mínima para cada cidade em um período de 30 dias e exibir os resultados em uma tabela SQL.
